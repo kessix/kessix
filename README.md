@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a SRE e DevOps and a infrastructure developer.
+I'm a SRE & DevOps and a infrastructure developer.
 
 ## 🛠 Skills
 
