@@ -24,6 +24,7 @@ I have been working with Cloud Native technologies.
 
 ## Professional Certs
 
+- Certified Kubernetes Administrator (CKA)
 - AWS Certified Cloud Practitioner
 - Linux Professional Institute Certification - Level 1
 - GitLab Certified Associate
