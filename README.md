@@ -19,7 +19,7 @@ I have been working with Cloud Native technologies.
 - Linux
 - Golang
 - Shell Script
-- CI/CD (Jenkins, Atlantis, Azure DevOps)
+- CI/CD (Jenkins, Atlantis, Azure DevOps, Harness, Concourse, Tekton)
 - Git
 
 ## Professional Certs
