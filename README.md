@@ -23,7 +23,7 @@ I have been working with Cloud Native technologies.
 - Git
 
 ## Professional Certs
-
+- AWS Certified Sysops Administrator [Loading....]
 - Certified Kubernetes Administrator (CKA)
 - AWS Certified Cloud Practitioner
 - Linux Professional Institute Certification - Level 1
